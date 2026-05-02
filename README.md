@@ -38,6 +38,4 @@ An advanced dashboard focused on logistics and operational Al-driven insights.
 
 ---
 
-## Author
-**Amudha. N** Batch: TN-DA-ANB11  
-Project Domain: Data Analytics & Business Intelligence
+
